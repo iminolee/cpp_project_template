@@ -1,14 +1,16 @@
-# cpp_project_template
+## What's in this repo
 
-This repository contains "The template for cpp projects".
+This repository contains 'The template for cpp projects', including basic examples of writing a C++ library for message printing and building an application that utilizes this library. <br/>
 
-## Compile
+## How to compile
 
 You can use the following commands to download and compile the package.
 
 ```
-cd ~/catkin_ws/src
 git clone https://github.com/iminolee/cpp_project_template.git
-cd ..
-catkin_make
+cd ~/cpp_project_template/
+cmake -S . -B build
+cmake --build build
+cd build/application/
+./printing_hello_world
 ```
