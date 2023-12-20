@@ -1,8 +1,8 @@
-# cpp_project_template
+## What's in this repo
 
 This repository contains 'The template for cpp projects', including a basic example of writing a C++ library for message printing and building an application that utilizes this library. <br/>
 
-## Compile
+## How to compile
 
 You can use the following commands to download and compile the package.
 
