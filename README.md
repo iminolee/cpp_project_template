@@ -1,7 +1,6 @@
 # cpp_project_template
 
-This repository contains 'The template for cpp projects', including a basic example of writing a C++ library named 'utils' for message printing. <br/>
-Additionally,'PRINTING_HELLO_WORLD' application utilizes the library to print "Hello World!" on the terminal, without directly using 'iostream'. <br/>
+This repository contains 'The template for cpp projects', including a basic example of writing a C++ library for message printing and building an application that utilizes this library. <br/>
 
 ## Compile
 
