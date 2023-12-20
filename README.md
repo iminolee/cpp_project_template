@@ -1,6 +1,6 @@
 ## What's in this repo
 
-This repository contains 'The template for cpp projects', including a basic example of writing a C++ library for message printing and building an application that utilizes this library. <br/>
+This repository contains 'The template for cpp projects', including basic examples of writing a C++ library for message printing and building an application that utilizes this library. <br/>
 
 ## How to compile
 
